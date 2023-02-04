@@ -127,12 +127,12 @@ body {
     border: 5px solid rgba(41, 41, 41, 0.9);
 }
 
-.info > img {
+/*.info > img {
     height: 100px;
     width: 100px;
     border-radius: 10px;
     object-fit: cover;
-}
+}*/
 .info {
     max-height: 200px;
     background-color: rgba(013, 013, 013, .97);
