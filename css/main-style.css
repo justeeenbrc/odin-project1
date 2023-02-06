@@ -2,6 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    max-width: 100%;
 }
 
 #bgvid {
@@ -27,6 +28,7 @@ body {
     justify-content: space-between;
     flex-shrink: 0;
     margin-bottom: 20px;
+    
 }
 
 .header img {
@@ -63,7 +65,7 @@ body {
     color: white;
     align-items: center;
     justify-content: space-evenly;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     border-radius: 10px;
     margin: 0px 5%;
     overflow: hidden;
